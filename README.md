@@ -1,0 +1,2 @@
+# SCFLGT
+SocialClubFriendsLastGameTime
