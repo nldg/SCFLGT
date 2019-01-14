@@ -1,2 +1,5 @@
 # SCFLGT
-SocialClubFriendsLastGameTime
+SocialClubFriendsLastGameTime  
+使用方法：打开后登录SocialClub账号，（若SocialClub语言不是英语，需在登录后改为英语），然后输入游戏ID，等待软件在网页内获取好友列表并逐个访问好友页面获取游戏时间（软件自动逐个访问获取），完成后点导出，新建一个Excel文件，直接在里面粘贴就可以了，这时候可以在Excel里面按时间排序来手动清好友  
+
+软件只引用了精易模块，就不放模块下载地址了，自己搜索吧，精易模块也是开源的（下载使用软件不需要模块，下载软件源码（比如修改软件之类的）才需要模块）  
